@@ -1,4 +1,5 @@
 import NextMUIProvider from '../components/NextMUIProvider'
+import './global.css'
 
 const Main = ({ children }) => {
   return (
